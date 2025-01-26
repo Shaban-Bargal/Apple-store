@@ -1,0 +1,24 @@
+* {
+    font-family: sans-serif;
+}
+
+nav a:hover {
+    border-bottom: 2px solid white;
+}
+
+.content p {
+    max-width: 400px;
+}
+
+.main-img {
+    width: 180px;
+}
+
+.icon img {
+    width: 50px;
+    transition: .4s;
+}
+
+.icon img:hover {
+    scale: 1.2;
+}
